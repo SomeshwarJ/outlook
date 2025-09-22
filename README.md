@@ -1,10 +1,9 @@
-__WFAP Credit Negotiation System__ is an AI-powered multi-agent platform that revolutionizes loan negotiations by connecting intelligent consumer agents with specialized bank agents through standardized protocols.
+- __Processes natural language loan requests__ through an intelligent chatbot that extracts financial parameters and business context
 
-The system enables businesses to submit natural language loan requests, receive evaluated offers from multiple banks with ESG scoring, and negotiate better interest rates in real-time through AI agent communication.
+- __Evaluates requests across three specialized bank agents__ with different lending philosophies (ESG-focused, traditional, innovation-driven)
 
-Built with FastAPI, React, and LangChain, it provides a beautiful user interface for transparent, intelligent financial decision-making that prioritizes both economic and environmental sustainability.
+- __Generates comprehensive loan offers__ with interest rates, carbon-adjusted rates, ESG summaries, and repayment terms
 
+- __Intelligently selects optimal offers__ using weighted scoring that prioritizes carbon-adjusted rates, loan amounts, and sustainability
 
-WFAP Credit Negotiation System is an AI-powered platform where intelligent agents negotiate optimal loan terms between businesses and banks through standardized protocols.
-
-The system enables natural language loan requests, multi-bank offer evaluation with ESG scoring, and real-time interest rate negotiation for transparent, sustainable financing decisions.
+- __Enables real-time interest rate negotiation__ where users can request better terms and receive instant bank responses
