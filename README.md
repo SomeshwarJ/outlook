@@ -1,9 +1,5 @@
-- __Processes natural language loan requests__ through an intelligent chatbot that extracts financial parameters and business context
-
-- __Evaluates requests across three specialized bank agents__ with different lending philosophies (ESG-focused, traditional, innovation-driven)
-
-- __Generates comprehensive loan offers__ with interest rates, carbon-adjusted rates, ESG summaries, and repayment terms
-
-- __Intelligently selects optimal offers__ using weighted scoring that prioritizes carbon-adjusted rates, loan amounts, and sustainability
-
-- __Enables real-time interest rate negotiation__ where users can request better terms and receive instant bank responses
+- __Multi-Agent AI Architecture__ - Three specialized bank agents (ESG-focused, traditional, innovation-driven) work with an intelligent consumer agent for comprehensive loan evaluation
+- __Real-Time Interest Rate Negotiation__ - Users can negotiate better terms directly with banks through AI agent communication, with instant approval/decline responses
+- __ESG-Conscious Lending__ - Automated environmental impact assessment with carbon-adjusted interest rates that reward sustainable business practices
+- __Natural Language Processing__ - Intuitive chatbot interface for submitting loan requests in plain English, with intelligent parameter extraction
+- __Beautiful Contextual UI__ - Innovative card-based display showing loan requests alongside top offers, with clear AI recommendations and responsive design
